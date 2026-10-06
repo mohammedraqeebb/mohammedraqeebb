@@ -8,6 +8,11 @@
 
 
 <h3 align="left">Connect with me:</h3>
+### currently building
+
+[think in numbers](https://thinkinnumbers.co) - a journaling app that shows you where your day actually went.
+
+i post daily about building and discipline on [x](https://x.com/mohammedraqeebb).
 <p align="left">
 <a href="https://www.leetcode.com/mohammedraqeebb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammedraqeebb" height="30" width="40" /></a>
 </p>
